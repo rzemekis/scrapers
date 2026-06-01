@@ -2,7 +2,7 @@
 
 To run: download them and install requirements:
 ```
-pip install openpyxl Pillow selenium
+pip install openpyxl Pillow selenium pandas webdriver-manager
 ```
 Then: 
 ```
